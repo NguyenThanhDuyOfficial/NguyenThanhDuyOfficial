@@ -1,11 +1,11 @@
-# Hi, I'm Ken
+# Hi, Wish you a wonderful day
 
-**I want to help people, solve their problems and do what I love.**
+## About me
 
-> _"If you light a lamp for somebody, it will also brighten your path."_ — Gautama Buddha
+My name is Nguyen Thanh Duy, a Software Engineer who loves building software that helps people.
 
-## Roadmap
+I started self-learning in 2022 and have explored various languages and technologies such as Flutter, Bash, Python, C++, Rust, and more. I’m committed to continuously creating meaningful software and contributing to the Open Source community.
 
-- [ ] update public profile
-- [ ] finish kaizen
-- [ ] update .dotfiles
+Soon, I’ll start writing a blog about my self-learning journey, sharing the tips and experiences I’ve gained along the way. If you’re interested, feel free to check it out on my portfolio site.
+
+Please take a look at my projects, and if you have any questions, don’t hesitate to reach out — I’m always open to connecting.
