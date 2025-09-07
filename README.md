@@ -1,4 +1,4 @@
-# 👋 Hi — Wish you a wonderful day
+# 👋 Hi there! — Wish you a wonderful day!
 
 ## About me
 
