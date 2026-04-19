@@ -2,11 +2,9 @@
 
 ## About me
 
-My name is **Nguyen Thanh Duy (Ken)** — a **Software Engineer** who loves building software that helps people move toward better things.
+My name is Duy, a Full-stack developer specializing in solving user problems through scalable and rapidly evolving systems. I have knowledge in system architecture, Scrum, Linux, and AI, and I work with technologies such as React, Node.js, and Qt. I continuously learn to deliver the best possible products.
 
-I began self-learning in **2022** and have worked with a variety of languages and technologies: `Flutter`, `Bash`, `Python`, `C++`, `Rust`,...
-I will continue to create useful applications and contribute to the **Open Source** community.
+I began my self-learning journey in 2023 and have spent significant time building community, personal, business, and open-source projects. I believe that good software is software that brings value to society.
 
-Soon I'll publish a blog about my self-learning journey where I'll share tips, notes, and lessons learned. If you're curious, you can check it out on my portfolio.
+If you have any questions, please contact: nguyenthanhduyofficial@gmail.com
 
-If you have any questions or want to collaborate, don't hesitate to reach out — I'm always open to connecting.
