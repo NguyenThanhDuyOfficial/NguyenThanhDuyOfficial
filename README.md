@@ -1,10 +1,15 @@
-# 👋 Hi there! — Wish you a wonderful day!
+# ❤️ Hello, I wish you lasting diligence, wisdom, and happiness. ❤️
 
-## About me
+## Your Excellency, what do you need?
 
-My name is Duy, a Full-stack developer specializing in solving user problems through scalable and rapidly evolving systems. I have knowledge in system architecture, Scrum, Linux, and AI, and I work with technologies such as React, Node.js, and Qt. I continuously learn to deliver the best possible products.
+I can:
+1. 💡 Consult on solutions for your problems. 💡
+2. 💻 Engineer Fullstack websites. 💻
+3. 🌱 Contribute to open-source projects. Prioritizing projects that benefit the community, nature, and animals. 🌱
+4.  ✨ Support social and psychological issues. ✨ <br/>
+  > As the founder of the **Odyssey** community – a community for personal development and mutual support. You can share the life challenges you're facing, and I, together with Odyssey 💪, will do our utmost to help you.
 
-I began my self-learning journey in 2023 and have spent significant time building community, personal, business, and open-source projects. I believe that good software is software that brings value to society.
+## 📬 Contact information
+📧 Gmail: nguyenthanhduyofficial@gmail.com
 
-If you have any questions, please contact: nguyenthanhduyofficial@gmail.com
-
+❤️ Wishing you lasting diligence, wisdom, and happiness. ❤️
